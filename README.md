@@ -1,1 +1,1 @@
-# paralle_computer_vision_pipeline
+# parallel-ml-for-computer-vision
