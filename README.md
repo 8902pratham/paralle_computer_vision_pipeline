@@ -1,0 +1,1 @@
+# paralle_computer_vision_pipeline
